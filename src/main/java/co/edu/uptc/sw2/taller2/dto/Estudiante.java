@@ -2,7 +2,8 @@ package co.edu.uptc.sw2.taller2.dto;
 
 /**
  *
- * @author RA302
+ * @author Yuliana Boyaca, Jorge Catolico
+ * 
  */
 public class Estudiante {
 
