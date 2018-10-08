@@ -14,7 +14,7 @@ import javax.ws.rs.Path;
 
 /**
  *
- * @author Yuliana Boyaca
+ * @author Yuliana Boyaca, Jorge catolico
  */
 @Path("ServicioCarrera")
 public class ServicioCarrera {
